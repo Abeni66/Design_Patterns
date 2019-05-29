@@ -1,0 +1,17 @@
+D:\Mansi\RND\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+D:\Mansi\RND\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+D:\Mansi\RND\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+D:\Mansi\RND\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.exe
+D:\Mansi\RND\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb
+D:\AKKI_DEV\RND\DP\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+D:\AKKI_DEV\RND\DP\AdapterPattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+D:\AKKI_DEV\RND\DP\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+D:\AKKI_DEV\RND\DP\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.exe
+D:\AKKI_DEV\RND\DP\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.pdb
+D:\AKKI_DEV\RND\DP\AdapterPattern\AdapterPattern\obj\Debug\AdapterPattern.csprojResolveAssemblyReference.cache
+C:\Users\Excalibur\Source\Repos\Adapter-Design-Pattern\AdapterPattern\bin\Debug\AdapterPattern.exe
+C:\Users\Excalibur\Source\Repos\Adapter-Design-Pattern\AdapterPattern\bin\Debug\AdapterPattern.pdb
+C:\Users\Excalibur\Source\Repos\Adapter-Design-Pattern\AdapterPattern\obj\Debug\AdapterPattern.csprojAssemblyReference.cache
+C:\Users\Excalibur\Source\Repos\Adapter-Design-Pattern\AdapterPattern\obj\Debug\AdapterPattern.csproj.CoreCompileInputs.cache
+C:\Users\Excalibur\Source\Repos\Adapter-Design-Pattern\AdapterPattern\obj\Debug\AdapterPattern.exe
+C:\Users\Excalibur\Source\Repos\Adapter-Design-Pattern\AdapterPattern\obj\Debug\AdapterPattern.pdb
